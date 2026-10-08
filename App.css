@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(201, 223, 230);
+}
+
+h1, h2 {
+    font-size: large;
+}
+
+#time {
+    text-align: left;
+}
+
+#move{
+    text-align: left;
+}
+
+#red{
+    color: red;
+}
+
+#green{
+    color: green;
+}
+
+button {
+    background-color: #4d83c1; 
+    color: white;
+    padding: 10px 20px; 
+    margin-left: 10px;
+    font-size: 16px; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 5px; 
+    margin-top: 10px; 
+  }
+  
+  button:hover {
+    background-color: #4d83c1; 
+  }
+  
